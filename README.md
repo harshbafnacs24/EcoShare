@@ -101,6 +101,20 @@ The application follows a modular layered architecture:
 
 ## ⚙️ Setup Instructions
 
+🌍 Vision
+
+To build a platform that encourages responsible travel by combining financial clarity with environmental awareness.
+
+🚧 Future Improvements
+Integration with real CO₂ calculation APIs
+Online payment gateway for settlements
+Real-time notifications (WebSockets)
+Mobile app using React Native
+AI-based eco-friendly recommendations
+🤝 Contributors
+Harsh Bafna
+Team EcoShare
+
 ```bash
 git clone https://github.com/harshbafnacs24/EcoShare.git
 cd EcoShare
