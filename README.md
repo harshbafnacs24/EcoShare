@@ -1,8 +1,8 @@
 # EcoShare 🌱
 
-EcoShare is a full-stack MERN application designed to simplify group travel expense management while promoting environmentally responsible decision-making.
+🚀 **Live Demo:** [Open EcoShare](https://eco-share-tbyu.vercel.app/login)
 
-It combines financial transparency with sustainability by assigning environmental impact scores to expenses and rewarding users with GreenPoints for eco-friendly choices.
+EcoShare is a full-stack MERN application designed to simplify group travel expense management while promoting environmentally responsible decision-making.
 
 ## 🚀 Features
 
