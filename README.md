@@ -4,8 +4,6 @@ EcoShare is a full-stack MERN application designed to simplify group travel expe
 
 It combines financial transparency with sustainability by assigning environmental impact scores to expenses and rewarding users with GreenPoints for eco-friendly choices.
 
----
-
 ## 🚀 Features
 
 - Create and manage group trips  
@@ -16,77 +14,55 @@ It combines financial transparency with sustainability by assigning environmenta
 - Leaderboards to encourage eco-friendly behavior  
 - Dashboard for tracking spending and environmental impact  
 
----
-
 ## 💡 What Makes EcoShare Unique
 
 Unlike traditional expense tracking apps, EcoShare integrates sustainability into financial decisions:
 
-- 🌍 Tracks environmental impact of expenses  
-- 🌱 Rewards eco-friendly choices with GreenPoints  
-- 📊 Visualizes CO₂ savings and sustainability metrics  
-
----
+- Tracks environmental impact of expenses  
+- Rewards eco-friendly choices with GreenPoints  
+- Visualizes CO₂ savings and sustainability metrics  
 
 ## 🛠 Tech Stack
 
-**Frontend**
+Frontend
 - React.js (Vite)
 - Tailwind CSS
 
-**Backend**
+Backend
 - Node.js
 - Express.js
 
-**Database**
+Database
 - MongoDB
 
-**Authentication**
+Authentication
 - JSON Web Tokens (JWT)
-
----
 
 ## 📸 UI Preview
 
-### 🔐 Login Page
+### Login Page
 ![Login](assets/login.png)
 
----
+### Home Page
+![Home](assets/home.png)
 
-### 🏠 Home & About
-![Home](assets/home&aboutus.png)
-
----
-
-### 👤 Dashboard / Profile
+### Dashboard / Profile
 ![Dashboard](assets/dashboard.png)
 
----
-
-### 🧳 Trips Management
+### Trips Management
 ![Trips](assets/trips.png)
 
----
-
-### 💸 Expense Management
+### Expense Management
 ![Expenses](assets/expenses.png)
 
----
-
-### 🔄 Expense Sharing
+### Expense Sharing
 ![Sharing](assets/sharing.png)
 
----
-
-### 🌍 Sustainability Impact
+### Sustainability Impact
 ![Impact](assets/impact.png)
 
----
-
-### 🏆 Leaderboard
+### Leaderboard
 ![Leaderboard](assets/leaderboard.png)
-
----
 
 ## 🧩 Architecture Overview
 
@@ -94,29 +70,29 @@ The application follows a modular layered architecture:
 
 - API Layer → Handles client requests  
 - Authentication Layer → JWT-based access control  
-- Business Logic Layer → Expense calculation & scoring  
+- Business Logic Layer → Expense calculation and GreenPoints scoring  
 - Database Layer → MongoDB data management  
-
----
 
 ## ⚙️ Setup Instructions
 
-🌍 Vision
+git clone https://github.com/harshbafnacs24/EcoShare.git  
+cd EcoShare  
+npm install  
+npm run dev  
 
-To build a platform that encourages responsible travel by combining financial clarity with environmental awareness.
+## 🌍 Vision
 
-🚧 Future Improvements
-Integration with real CO₂ calculation APIs
-Online payment gateway for settlements
-Real-time notifications (WebSockets)
-Mobile app using React Native
-AI-based eco-friendly recommendations
-🤝 Contributors
-Harsh Bafna
-Team EcoShare
+To build a platform that encourages responsible travel by combining financial transparency with environmental awareness.
 
-```bash
-git clone https://github.com/harshbafnacs24/EcoShare.git
-cd EcoShare
-npm install
-npm run dev
+## 🚧 Future Improvements
+
+- Integration with real CO₂ calculation APIs  
+- Online payment gateway for settlements  
+- Real-time notifications using WebSockets  
+- Mobile app using React Native  
+- AI-based eco-friendly recommendations  
+
+## 🤝 Contributors
+
+- Harsh Bafna  
+- Team EcoShare  
